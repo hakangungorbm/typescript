@@ -1,0 +1,4 @@
+class Test {
+	id:number;
+	name:text;
+}
